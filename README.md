@@ -12,7 +12,6 @@
 
 - Generates random motivational quotes in a click of a button
 - Fetches quotes from an external API [[REST API: Filo Motivational Quotes]](https://github.com/coronadogieo/REST-API-filo-quotes-generator).
-- Displays quotes with author name and category
 
 ## Technologies
 
