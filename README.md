@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#View this website using this link!
+https://coronadogieo.github.io/your-filo-motivator/
+
 ## Available Scripts
 
 In the project directory, you can run:
