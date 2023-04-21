@@ -1,5 +1,29 @@
-# Getting Started with Create React App
+# your (un)helpful filo motivator
 
+**Deployed Application**: [https://coronadogieo.github.io/your-filo-motivator/](https://coronadogieo.github.io/your-filo-motivator/)
+
+## Description
+
+---
+
+**your (un)helpful filo motivator** is web-based application that generates humorous, ‘gen-z’ type of motivational quotes in a click of a button. The quotes provided by the app may or may not motivate you hahaha. This application used ReactJS for its interface and Flask-based REST API for its backend [[REST API: Filo Motivational Quotes]](https://github.com/coronadogieo/REST-API-filo-quotes-generator). The project is created as a quick side project by a CS student, Gieo Coronado.
+
+## Features
+
+- Generates random motivational quotes in a click of a button
+- Fetches quotes from an external API [[REST API: Filo Motivational Quotes]](https://github.com/coronadogieo/REST-API-filo-quotes-generator).
+- Displays quotes with author name and category
+
+## Technologies
+
+This project is created with:
+
+- JS
+    - ReactJS
+- HTML5
+- CSS3
+
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # View this website using this link!
