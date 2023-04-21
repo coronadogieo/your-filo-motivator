@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/your-filo-motivator/static/css/main.1656ead2.css",
+    "main.js": "/your-filo-motivator/static/js/main.af0855ac.js",
+    "static/js/787.49616aef.chunk.js": "/your-filo-motivator/static/js/787.49616aef.chunk.js",
+    "static/media/id.png": "/your-filo-motivator/static/media/id.0e54513032113b5f488d.png",
+    "index.html": "/your-filo-motivator/index.html",
+    "main.1656ead2.css.map": "/your-filo-motivator/static/css/main.1656ead2.css.map",
+    "main.af0855ac.js.map": "/your-filo-motivator/static/js/main.af0855ac.js.map",
+    "787.49616aef.chunk.js.map": "/your-filo-motivator/static/js/787.49616aef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1656ead2.css",
+    "static/js/main.af0855ac.js"
+  ]
+}
