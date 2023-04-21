@@ -1,0 +1,19 @@
+.Generator{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    height: 60vh;
+    background-color: #EDE6DC;
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.text-disclaimer{
+    margin-top: 3rem;
+    color: grey;
+}

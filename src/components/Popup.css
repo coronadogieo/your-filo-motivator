@@ -1,0 +1,72 @@
+.generate-btn{
+    border: 1px solid black;
+    background-color: #A8D9A7;
+    border-radius: 0.3125rem;
+    color: black;
+    padding: 1em 2em;
+    font-size: 1.5rem;
+    width: auto;
+    box-shadow: 0px 5px 8px rgba(0, 0, 0, 0.493);
+    font-weight: bold;
+}
+.generate-btn:hover{
+    background-color:rgb(130, 193, 122);
+}
+.generate-btn:active{
+    background-color: rgb(181, 255, 171);
+    box-shadow: 0px 0px 5px rgb(215, 215, 215);
+}
+
+.popup-container{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    padding: 1rem 2rem;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    gap: 1rem;
+    border-radius: 0.3125rem;
+    background-color: #DCB5C2;
+    min-width: 15rem;
+    max-width: 17rem;
+    min-height: 23rem;
+    max-height: 23rem;
+    justify-content: center;
+    border: 1px solid black;
+    box-shadow: 0px 5px 0px black;
+}
+.content{
+    background-color: #DCB5C2;
+    font-size: 1.5rem;
+}
+
+.credits{
+    border-top: 1px solid rgb(82, 82, 82);
+    padding-top: 0.5rem;
+    font-size: 0.8rem;
+    background-color: #DCB5C2;
+}
+
+.btn-close{
+    border: 1px solid black;
+    padding: 0.5rem 0.8rem;
+    border-radius: 0.3125rem;
+    color: black;
+    background-color: #e4e4e4;
+    font-size: 1.1em;
+  }
+  .btn-close:hover{
+    background-color: #c4c4c4;
+  }
+  .btn-close:active{
+    background-color: #DA7A51;
+    color: rgb(255, 255, 255);
+  }
+
+.btn-div{
+    background-color: #DCB5C2;
+}
+.btn-close{
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.288);
+}

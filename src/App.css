@@ -1,0 +1,57 @@
+*{
+  margin: 0;
+  padding: 0;
+  background-color: #EDE6DC;
+  overflow: visible;
+}
+
+.App{
+  position: relative;
+}
+
+.btn{
+  border: 1px solid black;
+  padding: 0.5rem 0.8rem;
+  border-radius: 5em;
+  color: black;
+  background-color: none;
+  font-size: 1.1em;
+}
+.btn:hover{
+  background-color: #c4c4c4;
+}
+.btn:active{
+  background-color: #DA7A51;
+  color: rgb(255, 255, 255);
+}
+
+body::-webkit-scrollbar {
+  width: 0.4rem;               /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+  background: none;        /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: #DA7A51;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border-right: 0.1rem solid #EDE6DC;
+}
+
+.orange{
+  border: 1px solid black;
+  padding: 0.5rem 0.8rem;
+  border-radius: 5em;
+  color: rgb(255, 255, 255);
+  background-color: none;
+  font-size: 1.1em;
+  background-color: #DA7A51;
+}
+.orange:hover{
+  background-color: #f2885a;
+}
+.orange:active{
+  background-color: #b56442;
+  color: black;
+}
